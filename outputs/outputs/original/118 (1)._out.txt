@@ -1,0 +1,17 @@
+UPDATE ON INTER-SC TRADES ADJUSTMENT BID PROJECT TIMELINEMarket Participants:
+Market Participants, through TSWG,  have expressed concern about thecurrently scheduled release time between 10 minute settlements and Inter-SCTrade Adjustment Bid functionality.  
+As a result of the delay toimplementation of 10 minute settlements, the release time frame hasdecreased from the original 1 month to approximately 2 weeks.  
+Understandingthese timing concerns, the ISO has decided to delay the implementation ofInter-SC Trade Adjustment Bid.
+Therefore, the ISO is revising the implementation target date for Inter-SCTrade Adjustment Bid until the first week of October 1, 2000.  
+Following isan updated project timeline.
+Prior to the ISO making this decision, feedback from both business andtechnical sides of the Market Participants were taken into consideration.
+It was determined that this later date will allow Market Participantsadditional testing time to prepare for a successful implementation of theInter-SC Trade Adjustment Bid software.   
+CRCommunications   Client Relations CommunicationsPROJECT TIMELINEFinal SI/PMI templates to Market Participants  
+6/13/00Parser Development                                            6/23/00 -7/14/00Draft
+Parser provided to Market Participants   7/13/00SC Training7/14/00ISO internal integration testing                          8/1/00 -8/25/00Market simulation                                        9/05/00- 9/15/00Additional
+SC Training                                      
+9/18/00
+-9/22/00FERC Filing(Week of)
+9/18/00Implementation                                         
+(Weekof)
+10/1/00

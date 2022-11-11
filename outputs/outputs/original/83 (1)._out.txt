@@ -1,0 +1,20 @@
+> SC Settlements
+Contacts;MARKET
+NOTICEThis Market Notification is to advise you of a misallocation of UFE that hasbeen identified in the SCE and Pasadena's UDC territories between the Tradedates of April 27, 2000 and June 27, 2000 .On
+April 26, 2000
+the ISO made a change to the ISO Masterfile thateliminated the ability for SCs to submit a schedule at the intra-tieresource ID for the Pasadena UDC territory.
+This change in turn, preventedthe meter data that was directly collected by the ISO at the intra-tie/loadpoint to be used in the Settlement calculations.
+The effect of this change was that from Trade date April 27, 2000 untilcorrected for Trade date June 28, 2000
+the UFE calculation was performedwithout the proper data representing the intra-tie point between the SCE andPasadena UDC territories.
+This caused UFE to be more positive in the SCE UDCterritory and more negative in the Pasadena UDC territory.  
+The UFEcalculation used the appropriate meter data, for Trade dates June 28, 2000forward .The
+ISO is in process of determining the method to reallocate the UFE
+forthe period between Trade dates April 27, 2000 and June 27, 2000.
+Themagnitude of the misallocation is estimated at approximately $14.5 Million .Further notification to the Market will be made after the ISO determines thereallocation method and timeline .
+>
+ISO Project Manager> Kyle T. Hoffman, (916) 608-7057> Client Relations, California ISO
+> Internet: KHoffman@caiso.com
+> FAX: (916) 608-7074
+>
+>
+CRCommunications> Client Relations Communications>

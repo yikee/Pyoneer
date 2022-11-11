@@ -1,0 +1,5 @@
+Market Participants,Several market participants have been engaged in a practice of schedulinglarge amounts of non-firm counter flows on congested branch groups in orderto earn hour-ahead congestion revenues and then not providing those counterflows in real time.  
+This occurred during a Stage 1 emergency on 7-20-00.This practice creates a significant reliability problem for the ISO and isto the detriment of market efficiency.
+This notice is intended to inform Market Participants that the ISODepartment of Market Analysis considers this a potentially serious "gaming"practice as defined in the ISO Tariff MMIP 2.1.3.
+The ISO DMA will beinvestigating any Market Participant found to be engaging in this activityand will take appropriate corrective actions.
+CRCommunicationsClient Relations Communications

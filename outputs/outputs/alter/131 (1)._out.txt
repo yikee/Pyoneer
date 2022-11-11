@@ -1,0 +1,72 @@
+	Enron Capital & Trade Resources Corp.     
+08/14/2000 12:53
+PM18:34 GMT 14 August 2000
+=DJ POWER CUTS:
+Blackouts Lead Firms
+To Examine Power Supply  
+By ChristinaCheddar  Of DOW JONES NEWSWIRES  NEW YORK
+(Dow Jones)--For several hours
+onJune 14, around 97,000 power customers in San Francisco's Bay Area lostelectricity, as Pacific Gas & Electric Co. struggled to reduce itsoverburdened network by taking accounts off line.  
+Apple Computer Inc.(AAPL) was one of the businesses left in the dark, along with other firmsand consumers in a five-county area, as the utility, a unit of PG&E Corp.(PCG), rotated off blocks of 35,000 customers for 60 to 90 minutes at a timeafter other attempts to reduce demand failed.  
+Apple considers itselfrelatively lucky because it was able to keep doing business that day thanksto a contingency plan, according to spokeswoman Lynn Fox.
+Whether thatback-up plan includes buying in alternative electricity or some other meansApple wouldn't say.  
+What is sure is that as Silicon Valley expands throughthe nation's most populous state - and California shows no sign of quicklyresolving its power problem - technology firms large and small are amongthose businesses that stand to suffer financially from lost production time.
+These big power consumers are spending a lot of money to back up theirregular electricity sources, industry observers said, and in some cases thatspending may be as much of a bottom-line factor as the power outagesthemselves.  
+Unreliable power costs the U.S. economy about $50 billion ayear, said Bernie Ziemianek, of EPRI, a Palo Alto, Calif., think-tankfocused on power issues and technology.
+Ziemianek thinks that figure - whichconsiders lost productivity and the cost of equipment and products damagedduring a power interruption - could double in the next three to five yearsbecause of the growth of Internet-related activity and electronic commerce.
+Mark Mills, co-author of the Digital Power Report, a trade newsletter,believes that cost is already higher because the economy is increasinglydependent on reliable power.
+It is no longer just hospitals and militarybases that can't do without uninterruptible power; semiconductor makers,telecommunications providers and a host of other industries cannot dowithout full-time electricity.  
+By the end of the decade, Internet-relatedactivity and e-commerce could account for about 25% to 35% of the total U.S.electric demand, said Raymond James analyst Frederick Schultz, compared withabout 8% in 1998.  
+"The new U.S. economy can scarcely survive the annualpower outages and interrupted service problems that have plagued the powergrid over the past few years," Schultz said.       
+Hot Days, Hot Economy
+-And
+Hot Debate    
+Although the California power outage made headlines acrossthe country, rolling blackouts in the state are about as rare as atraffic-free Los Angeles freeway.
+Indeed, the state has never declared aso-called Stage 3 emergency, which occurs when the statewide power reservefalls below 1.5% and involuntary power interruptions may begin on a widescale.
+Rolling blackouts have been more common in the East Coast and theMidwest, which are two areas that also are susceptible to storm-relatedoutages.  
+While some industry watchers have faulted deregulation for thestruggle to meet power demand in California, others argue that hot weatherand robust economic growth are to blame.
+The truth probably lies somewherein the middle.  
+A year ago, California's weather was cooler than usual, butthis year the state has had a hot summer.
+On June 14, the day of the BayArea blackout, the temperature in San Francisco reached 103 degrees, a levelnot seen for 135 years.
+That spike, coupled with overall growth inelectricity usage, pushed the power grid to its limits.  
+"Over a 10-yearperiod, this state will need 10,000 megawatts of additional energy to keepup with the growth we are seeing now," said PG&E spokesman Greg Pruett.
+Indeed, with hot summer weather, and new capacity still a long way off, thenumber of Stage 2 emergencies California has declared is on the rise.
+In aStage 2 emergency, power reserves are below 5%, and many utilities begin tocontact accounts that have identified themselves as "interruptiblecustomers" and ask them to reduce their usage by set amounts.
+Thoseso-called interruptible customers are typically commercial and industrialaccounts.  
+By early August, the California Independent System Operator haddeclared nine Stage 2 alerts, said Patrick Dorinson, a spokesman for thenonprofit agency that manages most of the electricity flow around the state,compared with one in 1999 and four in 1998.  
+During a Stage 2 alert,interruptible customers agree to cut their consumption, when asked, inreturn for lower electricity rates, and often help to stave off the need toresort to more serious measures such as rolling blackouts.
+However, it canbe a double-edged sword for the commercial customer, which can face steepfines if it fails to comply with the order.
+Penalties can offset the savingsthe company stands to gain from the program, and that's even beforeaccounting for the cost of lost productivity.  
+Aerospace and defense giantBoeing Co. (BA) and technology distributor Ingram Micro Inc. (IM) are twocompanies operating facilities in California under the interruptiblecustomer program.
+During the first week of August, each was called upon toreduce its power consumption.
+Both companies see the program as a way to actas good members of the community while saving money.  
+"The manufacturing ofa rocket takes two to three years," said Walt Rice, a spokesman at Boeing'sHuntington Beach, Calif., facility.
+"The impact (of a Stage 2 powerreduction) is fairly outweighed by the cost savings," he said.  
+"We live ina state where there is a high demand for electricity, we are doing things toshed even a small amount of that demand," said Paul La Plante, senior vicepresident of worldwide facilities for Ingram Micro.  
+Still, companyofficials admitted compliance isn't without inconvenience.
+Companies need towork closely with utilities to determine the number of power interruptionsthey can tolerate, Ziemianek said, but that determination can be difficultto make.  
+For example, while a semiconductor plant operator knows a merebrownout can destroy a day's production and prepares for this event, theoperator of a commercial bakery may be unprepared for the disruption abrownout can have on the microchips embedded in its machinery, Digital PowerReport's Mills said.  
+Companies such as Silicon Graphics Inc. (SGI)
+andQwest Communications International Inc. (QWST) are spending more money onsystems either to back up, replace or supplement the electricity suppliedfrom the power grid than the entire electric industry is spending by afactor of at least five, possibly 10, said Mills.
+"The stakes are too high,if you are Nasdaq, a dotcom or a fab maker," he said.       
+Other PowerOptions    
+For that reason, companies are trying to be savvier about theirpower usage.
+Earlier this year, Oracle Corp. (ORCL) considered going off thepower grid entirely by building its own power generation facility.
+Aspokeswoman for the Redwood Shores, Calif., software company wouldn'tprovide further details of the plan's progress.  
+This option may seemsevere, but it's one reason why the makers of power turbines are faced withextensive order backlogs, and it's also driving demand for uninterruptiblepower supplies, such as those manufactured by companies like EmersonElectric Co. (EMR), and for new power technologies such as fuel cells,flywheels and microturbines - some of which are still years away fromcommercial viability.  
+Others, like Silicon Energy Co., are developingproducts to allow utilities and their customers to better manage theirelectric consumption.
+Silicon's software allow its users to track theirreal-time electricity consumption.  
+With this in mind, Mills suggests thatthe real financial impact of power interruptions isn't the money companieslose on these events, but the value of what companies are willing to spendto cushion the blow of blackouts when they occur.  
+-By
+Christina Cheddar,Dow Jones Newswires; 201-938-5166;
+christina.cheddar@dowjones.com  Copyright(c) 2000, Dow Jones & Company IncG_nther A. PergherSenior AnalystDow Jones & Company Inc.
+Tel.  
+609.520.7067Fax.
+609.452.3531The information transmitted is intended only for the person or entity towhich it is addressed and may contain confidential and/or privilegedmaterial.  
+Any review, retransmission, dissemination or other use of, ortaking of any action in reliance upon, this information by persons orentities other than the intended recipient is prohibited.
+If you receivedthis in error, please contact the sender and delete the material from anycomputer.
+<<Gunther Pergher
+(E-mail).vcf
+>
+>  
+- Gunther Pergher (E-mail).vcf

@@ -1,0 +1,33 @@
+ISO FALL 1999 UFE PROJECTRETROACTIVE
+MARKET ADJUSTMENT ANNOUNCEMENTJune 15, 2000MARKET PARTICIPANTS & SC SETTLEMENT CONTACTS;NOTIFICATION OF RETRO-ACTIVE 1999
+UFE MARKET CORRECTIONOn July 3, 2000,
+the ISO, consistent with its commitment to the MarketParticipants, will initiate Unaccounted for Energy (UFE) market adjustments,for Market Settlements from August 21, 1999 through December 31, 1999.These adjustments result from the correction of  meter data errors,identified and corrected by the ISO UFE Project.
+The Market Participantshave been very cooperative in working with the ISO.  
+The mutual objectiveswere to assure accurate settlement of Imbalance Energy, to rectify start-upmeter data management problems and to minimize UFE.The overall magnitude of erroneous UFE identified by the ISO UFE Project isapproximately 1,100,000 MWhs or $ 70,000,000.  
+The ISO Settlements andMetering Department staffs are in the process of recalculating the specificmarket charges impacted, for this period.
+Actual retro-active UFE adjustments will commence on July 3, 2000, and beapplied initially to the May 9th Preliminary Settlement Statement (PSS).
+TheISO's intention is to correct 15 settlement days per week over the next 10weeks until the entire 1999 August 21-December 31 period settlements arecorrected.  
+The ISO Settlements system time required to rerun settlementsconstrains our ability to proceed more expeditiously.  
+However, we do plancompletion by the end of Summer.
+The ISO will apply retroactive adjustments to ALL UFE related Marketcharges.
+The erroneous UFE identified by the ISO UFE Project will be chargedto the responsible Scheduling Coordinators (SCs), to help assure that noadverse market impact occurs from cost shifting.  
+Other SCs will receive theassociated charge type credits.
+FINAL REPORT TO MARKET PARTICIPANTS - Fall 1999 ISO UFE PROJECTOn August 21, 1999,
+UFE in the PG&E Service Area increased substantially,ranging from 4-15 %.   
+This inordinately high UFE continued in excess oftypical amounts of UFE for this UDC Service Area (-1 to +1%), for fourmonths.
+The ISO actively investigated potential systemic causes for this order ofmagnitude increase in UFE.ISO efforts consisted of a concerted review of SQMD submitted by SC's duringthis period, a review of the ISO MDAS polled meter data for ISO meteredentities, a review of interchange data (exports), a review of theTransmission Loss calculations used by ISO Settlements to calculate UFE byUDC, an investigation of the Market Redesign Settlements software changesassociated with the drop of new Settlements software in mid- August and theretention of a data consultant to help identify and isolate any causalfactor, attributable for the high UFE .The effort to identify UFE related settlement issues for the period ofAugust 21, 1999 through December 31, 1999 is complete.  
+The ISO UFE Projectteam, working in conjunction with Market Participants, identified over 1.1million MWH of erroneous UFE.
+This UFE is now accounted for, and will bereassigned to the responsible SCs.
+The ISO Project identified over 14 casualsources of UFE during this period.  
+Many of the issues identified wereinterrelated.
+The last major source of UFE for the period was identified in April.
+ThisUFE resulted from an erroneous Validation, Editing and Estimating (VEE)factor, applied to firm load within the PG&E Service Area.  
+This error,associated with late or missed meter data adjustment, commenced October 1,1999 and resulted in understated SC load of approximately 100 - 267 MW/hour,through December.
+The balance of the SC meter data management errors previously identifiedwere attributable to the complexity of using Pseudo Resources and LogicalMetering to model, schedule and settle Municipal UDC existing contracts(ETCs).The four primary SCs which experienced meter data problems, within the PG&EUDC Service Area, have resubmitted corrected Settlement Quality Meter Data(SQMD).The ISO will initiate retroactive UFE Market adjustments for the Settlementperiod of August 21,1999 through December 31, 1999.  
+The magnitude of theMarket UFE adjustment is approximately $70 million.
+These retro-activeMarket adjustments will complete the Project Team's work on the Fall 1999UFE issue.
+Present UFE Status:
+March 2000 UFE, based upon Final Settlement Statements (FSS), is as follows:
+System UFE         +0.22 %
+PG&E UDC Service Area UFE   + 0.17 %SCE UDC Service Area UFE    + 0.44 %SDG&E UDC Service Area UFE   -  
+0.45%ISO UFE Project TeamSarah Ten BroeckKevin GravesBill HayesKyle HoffmanTri HuynhGlen PerezJeanette PlumleyChris SibleyJune 15, 2000CRCommunicationsClient Relations Communications

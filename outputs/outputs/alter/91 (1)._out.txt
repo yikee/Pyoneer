@@ -1,0 +1,5 @@
+  Market Participants and Schedule Coordinators,  Please be advised that all Supplemental Energy bids(including imports and exports) submitted to the ISO for use in thereal-time Imbalance Energy Market are considered to be "FIRM"
+(i.e., thebids cannot be withdrawn after 45 minutes prior to the Settlement Period andcan be dispatched by the ISO anytime during the Settlement Period, see - ISOTariff o 2.5.22.4.1).  
+Any bids labeled as "Non- Firm" or reported to the CAISOreal-time scheduler as "Non-Firm" or recallable will be rejected.  
+The CAISOdoes not carry the necessary excess reserves to support "Non-Firm"Supplemental Imports.  
+If there are any questions concerning this practice pleasecontact Brian Rahman at 916-608-5883.Brian S. Rahman P.E.Manager of Markets - California ISOPhone (916) 608-5883Pager (916) 814-0614

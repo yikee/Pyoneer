@@ -1,0 +1,36 @@
+TSWG Meeting notes for 8/23/00Participants:
+Scheduling Coordinators - Altra, SCE, CDWR, PGE, Riverside, Southern,Midway, Dynegy, PX, Reliant, NCPA, & more.
+ISO - Darren Lamb, Ginger Seitles, Greg Ford, Eddie Ledesma, Mark Rothleder,CP Ng, Jim Blatchford.
+Settlement Dispute System (SDS):Not implemented yet.
+Automated Dispatch System
+(ADS):The ADS Query File Data Dictionary was released this week.
+ADS client 26 wasreleased 8/23.
+Features include Query data which now contain decimalsinstead of integer values and system performance improvement by limitingqueries to 7 days worth of data at a time.
+A question was raised about whattime standard is used for instructions.
+Greg Ford responded it is PDT/PST.RMR Scheduling:
+No comments10-Minute Settlement:The API parser had corrections made.
+The Ex-Post price fix (looking for 6values instead of 1) has been implemented and is working.
+Also thesupplemental energy import parsing order was corrected.
+The Beep_Gen_Fulltemplate does successfully parse through the existing parser.
+Ginger Seitlesis working with SCE to correct the localized parser problem.
+The questionwas raised if there may be only one record supporting two charge types.
+CPresponded that for CTs
+401/407 there is, and can be, one record supportingmultiple charge types.
+A question was raised concerning instructions beingover lapped to the next day.
+Mark responded that there are no instructionsthat are issued to last over a day.
+Mark also reminded everyone thateffective June 1st that the ISO stated using ramping energy versus blockenergy for dispatches.
+He also reminded all that residual energy would be ineffect on September 1st.  
+The PX asked if there were DC loss calculationavailable for the market simulation information.
+CP stated that there wasand would forward it on to the PX.
+It is also planned to publish theimplementation schedule the week of 8/28.InterSC Trades of Adjustment Bids:
+The implementation target date for Inter-SC Trade Adjustment Bid has beendelayed until the first week of October 1, 2000.
+A new schedule has beenpublished.
+A training class has been tentatively scheduled for September19th .
+Details to follow.
+OASIS Redesign:
+Darren Lamb explained that the project is progressing satisfactorily.
+He isstill anticipating a market testing in late October with full implementationin mid-December.
+A concerned was raised about the amount of time, if any wasbeing allotted for overlapping of templates.
+Dual Invoicing:Everyone was reminded that the first preliminary invoices were coming out8/24.Other:A request was made (after the TSWG call) to change the time of the call to1330 PDT to accommodate those in the Eastern Time zone.  
+Comments arerequested.
+Jim BlatchfordClient RelationsCal ISO916.608.7051

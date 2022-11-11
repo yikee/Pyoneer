@@ -1,0 +1,53 @@
+	Enron Capital & Trade Resources Corp.07/03/2000 12:59
+PMScheduling Coordinators and Participating Transmission Owners
+:The ISO has received a request for information from the ElectricityOversight Board.
+Because of confidentiality provisions of the ISO tariff, weare noticing, by way of this email, Scheduling Coordinators andParticipating Transmission Owners of the requirements.
+Please see the memobelow for details and information.
+Don FullerDirector, Client RelationsMemoDate:     July 3, 2000The CA ISO is in receipt of a request for information from the CaliforniaElectricity Oversight Board (EOB).
+The information requested is listed inthe attachment to this notice.
+Some of the information requested is subjectto confidential treatment by the ISO pursuant to section 20.3 of the tariff.
+The CA ISO is in the process of determining and compiling
+it's response tothe request.
+This notice is provided in accordance with section 20.3.4 of the ISO tariffwhich states:
+Notwithstanding anything in this Section 20.3 to the contrary, ifthe ISO is required by applicable laws or regulations, or in the course ofadministrative or judicial proceedings, to disclose information that isotherwise required to be maintained in confidence pursuant to this Section2.3, the ISO may disclose such information; provided, however, that as soonas the ISO learns of the disclosure requirement and prior to making suchdisclosure, the ISO shall notify any affected Market Participant of therequirement and the terms thereof.
+The Market Participant may, at its solediscretion and own cost, direct any challenge to or defense against thedisclosure requirement and the ISO shall cooperate with such affected MarketParticipant to the maximum extent practicable to minimize the disclosure ofthe information consistent with applicable law.
+The ISO shall cooperate withthe affected Market Participant to obtain proprietary or confidentialtreatment of confidential information by the person to whom such informationis disclosed prior to such disclosure.
+The ISO requests any Market Participant who intends to take action tochallenge or defend against the disclosure of information to notify the ISOas soon as possible by contacting Jeanne M. Sol, at (916) 608-1744, email<mailto:jsole@caiso.com
+>
+jsole@caiso.com.
+The ISO intends to release theinformation no later than Monday, July 10.Attachment:
+Data requested by the EOB:For items 1-10, the specified information is requested for the followingtrades dates: June 1, 2000 through current date; May 20, 2000 through May24, 2000; and August 22 through August 28, 1999: (1) Day
+Ahead Schedules by unit and take out point includingAncillary Services.
+(2) Hour
+Ahead Schedules by unit and take out point includingAncillary Services.
+(3) Ancillary Service bid adequacy data.
+(4) Bids into the BEEP stack.
+(5) Actual operation by unit - divided between instructed anduninstructed generation.
+(6) All out of market or out of sequence calls made by the CAISOduring these periods.
+(7) RMR calls by hour and by unit and election chosen by owner toeither take contract path or market path, beginning in June 2000.
+Providedata indicating whether the unit was already in the market at thecommencement of this period or whether the CAISO had to call the unit inreal time for operation (even if such call was made the previous day).
+(8) A list of all units, transmission lines, transformers and othersystem elements out on maintenance or forced out of service.
+(9) Copies of the CAISO's " Morning Report."
+(10) Stage 1 and Stage 2 Emergency Notices during this period.
+Focusing on system conditions, causal factors, and data depicting actualOperating Reserves during each such event on a ten-minute interval.
+For the dates specified in requests 11-15, the following informationis requested: (11) Control Performance Standards violations on June 13, 2000 withan explanation of what caused these violations or the CAISO's interpretationof what caused these violations.
+(12)
+All records of communications regarding replacement reserve,including any internal correspondences relating to alteration, if any, ofCAISO policy regarding quantity to procure beginning on May 1, 2000 throughJune 16, 2000.
+(13)
+All records of communications regarding or related to twoEmergency Operating Orders Relating to Uninstructed Deviations (issued June14 and June 27), including specifics regarding the causes of these,responses to the orders, and, more generally, the matter of uninstructeddeviations (or chasing the price).
+(14) Provide detailed explanations of events that led to droppingload in the San Francisco Bay Area on June 14.
+(15) Provide detailed explanation of events that led up to invokingCAISO operating procedure T-134
+(Tracy transformer overload plus otheraffected transformer banks) on June 15, especially focusing on how municipalutilities responded and how settlements for such responses are expected toproceed.
+(16)
+A table that cross references generators with their respectiveScheduling Coordinator.
+(17)
+A table that lists generators and the firm that owns thisgenerator.
+(18)
+A guide to unit/transactions that fall under the 'existingcontract' category.
+(19) Copies of current Operating Procedures T-121, T-126, T-133.Jeanne M. Sol,Regulatory CounselCalifornia ISO(916)
+608-7144The
+Foregoing e-Mail Communication (Together With Any Attachments Thereto)Is Intended For The Designated Recipient(s)
+Only.
+Its Terms May BeConfidential And Protected By Attorney/Client Privilege or Other ApplicablePrivileges.  
+Unauthorized Use, Dissemination, Distribution, Or ReproductionOf
+This Message Is Strictly Prohibited.
